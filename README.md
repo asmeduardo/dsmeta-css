@@ -1,6 +1,8 @@
 <h1 align="center"> DSMeta </h1>
 
-![Logo DSMeta utilizada no projeto](https://i.imgur.com/esOtflw.png)
+<p align="center">
+<img src="https://i.imgur.com/esOtflw.png" width="400" alt="Logo DSMeta"/>
+</p>
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
@@ -15,7 +17,9 @@ Projeto fullstack em desenvolvimento na Semana Spring React com a orientação d
 - `Funcionalidade 1` `Listar as vendas por período`: o usuário insere nos campos o período de vendas que ele deseja consultar e o sistema retorna, após uma consulta ao banco de dados, uma lista contendo todas as vendas do período, organizadas em ordem decrescente, do funcionário com o melhor para o pior desempenho.
 - `Funcionalidade 2` `Enviar um SMS para o funcionário`: o usuário poderá enviar uma notificação via SMS para os funcionários informando do seu desempenho nas vendas daquele período.
 
-![Imagem da aplicação](https://i.imgur.com/bBK30D0.png)
+<p align="center">
+<img src="https://i.imgur.com/bBK30D0.png" alt="Imagem da aplicação"/>
+</p>
 
 ## :heavy_check_mark: Técnicas e tecnologias utilizadas
 
