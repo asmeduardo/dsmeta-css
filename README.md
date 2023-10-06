@@ -38,4 +38,4 @@ Projeto fullstack em desenvolvimento na Semana Spring React com a orientação d
 
 ## 🛠️ Abrir e rodar o projeto
 
-**Após baixar o projeto, você pode abri-lo como um editor de código ou simplismente dar um duplo clique no arquivo index.html**
+**Após baixar o projeto, você pode abri-lo como um editor de código ou simplesmente dar um duplo clique no arquivo index.html**
